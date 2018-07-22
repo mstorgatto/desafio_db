@@ -1,11 +1,13 @@
-# Desafio DBServer
+## Desafio DBServer
 
 Desafio de automação de testes realizado para a empresa DB Server.
 
 Marina Storgatto
 
 
-O teste foi desenvolvido para a loja virtual "www.automationpractice.com" Esta dividido em:
+O teste foi desenvolvido para a loja virtual "www.automationpractice.com" 
+
+Esta dividido em:
 
 * TestSuites
 * TestCases
