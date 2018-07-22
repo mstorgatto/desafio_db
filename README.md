@@ -31,4 +31,4 @@ Clique no menu "Run As -> JUnit Test"
 (caso necessite ser rodado mais vezes é necessário a mudança do email a ser inserido no campo email
 que se encontra na linha de código 39)
 
-39 homePage.EmailAddress("testenina@hotmail.com");
+39 homePage.EmailAddress("testemarinastorgatto@hotmail.com");
