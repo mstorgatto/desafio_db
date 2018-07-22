@@ -36,7 +36,7 @@ public class NewShopTestCase {
 		homePage.ProceedToCheckout1();
 		verificationPoint.checkNewShopMessage();
 		homePage.ProceedToCheckout2();
-		homePage.EmailAddress("testemarina@hotmail.com");
+		homePage.EmailAddress("testemarinastorgatto@hotmail.com");
 		Report.log(Status.INFO,"Add a new e-mail.", ScreenShot.capture(driver));
 		homePage.CreateAnAccount();
 		homePage.Name("Marina","Storgatto","senha1234");
